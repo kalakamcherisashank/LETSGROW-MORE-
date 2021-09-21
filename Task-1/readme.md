@@ -10,7 +10,7 @@ Creating a single page website which will determine our HTML, CSS and Javascript
 ![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## Screenshots
-
+![image](https://user-images.githubusercontent.com/86907511/134181772-6e58ad57-0543-4f62-95ee-acf86c56e5b7.png)
 ![image](https://user-images.githubusercontent.com/86907511/134181976-9e9a2a94-9c82-469d-94fd-5feab1a4b033.png)
 ![image](https://user-images.githubusercontent.com/86907511/134181772-6e58ad57-0543-4f62-95ee-acf86c56e5b7.png)
 ![image](https://user-images.githubusercontent.com/86907511/134182220-dbe01f61-564f-430c-bc4d-cb902f07efcb.png)
