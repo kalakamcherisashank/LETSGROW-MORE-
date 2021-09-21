@@ -11,8 +11,10 @@ Creating a single page website which will determine our HTML, CSS and Javascript
 
 ## Screenshots
 
-![image](https://user-images.githubusercontent.com/52875298/127186384-5b2d8bbc-ca2b-48ec-b8b0-10647a1b7fdf.png)
+![image](https://user-images.githubusercontent.com/86907511/134181976-9e9a2a94-9c82-469d-94fd-5feab1a4b033.png)
+![image](https://user-images.githubusercontent.com/86907511/134181772-6e58ad57-0543-4f62-95ee-acf86c56e5b7.png)
+![image](https://user-images.githubusercontent.com/86907511/134182220-dbe01f61-564f-430c-bc4d-cb902f07efcb.png)
+![image](https://user-images.githubusercontent.com/86907511/134182603-f91bab61-543c-4f90-8b29-15e3b87b0d94.png)
+![image](https://user-images.githubusercontent.com/86907511/134182701-0a523f54-c7d3-4055-af2b-36d6b4554914.png)
+![image](https://user-images.githubusercontent.com/86907511/134182894-cece96b0-cd33-4e0a-901f-f3bd82255546.png)
 
-## Live Demo
-
-Visit Website : http://zippy-website.vercel.app/
